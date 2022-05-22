@@ -12,7 +12,7 @@ removes brackets('[,],{,},(,)') and a chuck of string from a filenme and replace
 
 ** If you wanna change what should be replaced with what:- 
 
--In line 12 of rename.py and line 13 of delete_chunk change contents of 
+- In line 12 of rename.py and line 13 of delete_chunk change contents of 
 
 > if ch=='_insert your object to be changed here_ ':  
 >	original_name.endswith('_insert your object to be changed here_ '):
