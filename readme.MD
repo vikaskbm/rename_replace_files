@@ -10,9 +10,9 @@ removes dashes('-') from a filenme and replaces them with spaces
 removes brackets('[,],{,},(,)') and a chuck of string from a filenme and replaces them with spaces
 
 
-** If you wanna change what should be replaced with what:- 
+## If you wanna change what should be replaced with what:- 
 
-- In line 12 of rename.py and line 13 of delete_chunk change contents of 
+> In line 12 of rename.py and line 13 of delete_chunk change contents of 
 
-> if ch=='_insert your object to be changed here_ ':  
->	original_name.endswith('_insert your object to be changed here_ '):
+- if ch=='_insert your object to be changed here_ ':  
+-	    original_name.endswith('_insert your object to be changed here_ '):
